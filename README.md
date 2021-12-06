@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/thiagosanntos/">Thiago Santos</a>
  
 ## Sobre mim
-Olá, me chamo Thiago Santos, tenho 21 anos e sou técnico em informática pelo Colégio Imperial Dom Pedro II (Rio de Janeiro, RJ), formado em 2018. Atualmente, sou estudante de Ciência da Computação. 
+Olá, me chamo Thiago Santos, tenho 21 anos e sou técnico em sistema da informação pelo Colégio Imperial Dom Pedro II (Rio de Janeiro, RJ), formado em 2018. Atualmente, sou estudante de Ciência da Computação. 
 <br>
 Sou desenvolvedor web e mobile, atuando com front-end e back-end, desenvolvedor de sistemas apaixonado por tecnologia.
 
