@@ -10,6 +10,8 @@ Sou desenvolvedor web e mobile, atuando com front-end e back-end, desenvolvedor 
 - Wordpress
 - UI Design com Figma
 - Swift 
+- API Rest
+- Back-and com Node.JS, NestJS, TypeScript
 
 **Linguagens e Ferramentas:**  
 
