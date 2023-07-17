@@ -6,11 +6,13 @@ Olá, me chamo Thiago Santos, tenho 21 anos e sou técnico em sistema da informa
 Sou desenvolvedor web e mobile, atuando com front-end e back-end, desenvolvedor de sistemas apaixonado por tecnologia.
 
 ## Linguagens de Programação 
-- Front-End com HTML, CSS, JS, PHP
+- Front-End com HTML, CSS, JS, PHP, Angular, AngularJS, React
 - Wordpress
 - UI Design com Figma
-- Swift 
+- Ionic
 - API Rest
+- Micro-Service
+- AWS
 - Back-and com Node.JS, NestJS, TypeScript
 
 **Linguagens e Ferramentas:**  
