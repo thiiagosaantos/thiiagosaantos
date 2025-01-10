@@ -3,7 +3,9 @@
 ## About me
 Thiago Santos is a software engineer and solutions architect with a passion for transforming complex challenges into simple, elegant technical solutions. His expertise spans digital interfaces, interactive systems, and the intersection of software development and architecture.
 <br>
-Sou desenvolvedor web e mobile, atuando com front-end e back-end, desenvolvedor de sistemas apaixonado por tecnologia.
+
+portfolio and budgets
+<a href="thiagosantos.dev" target="_blank">thiagosantos.dev</a>
 
 <div> 
  
